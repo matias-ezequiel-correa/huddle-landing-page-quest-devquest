@@ -66,12 +66,16 @@
     }
 
     .container .conteudo-principal .conteudo-principal-imagem{
-        width: 80%;   
+        width: 100%;   
     }
 
     .conteudo-principal .conteudo-principal-escrito .conteudo-principal-escrito-titulo{
-        font-size: 2.3rem;
+        font-size: 2rem;
         margin-top: 0;
+    }
+    
+    .conteudo-principal .conteudo-principal-escrito .conteudo-principal-escrito-subtitulo{
+        font-size: 1.2rem;
     }
 
     .conteudo-principal .conteudo-principal-escrito .conteudo-principal-escrito-botao{
@@ -85,6 +89,7 @@
         justify-content: center;
         margin-top: 0;   
         margin-left: 4rem;
+        padding-bottom: 4rem;
     }
 }
 
