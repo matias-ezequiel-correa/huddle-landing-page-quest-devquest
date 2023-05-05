@@ -7,7 +7,7 @@
 * Utilizando os conceitos de Flexbox.
 
 
-## Responsivo:
+## Design:
 * Desktop:
 <img height="500em" src="./src/design/desktop-design.jpg" alt="Projeto Huddle - Versão Desktop">
 
