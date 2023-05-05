@@ -1,4 +1,4 @@
-# QUEST sobre HTML + CSS AVANÇADO | Landing Page | DevQuest
+# QUEST sobre HTML + CSS AVANÇADO | Landing Page | DevQuest 🚀
 
 * Um desafio proposto no curso DevQuest sobre uma Landing Page do Frontend Mentor, chamada de Huddle. 
 
