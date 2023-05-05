@@ -9,10 +9,10 @@
 
 ## Responsivo:
 * Desktop:
-<img height="300em" src="./src/design/desktop-design.jpg" alt="Projeto Huddle - Versão Desktop">
+<img height="500em" src="./src/design/desktop-design.jpg" alt="Projeto Huddle - Versão Desktop">
 
 * Mobile:
-<img height="300em" src="./src/design/mobile-design.jpg" alt="Projeto Huddle - Versão Mobile">
+<img height="500em" src="./src/design/mobile-design.jpg" alt="Projeto Huddle - Versão Mobile">
 
 ## Tecnologias utilizadas:
 
